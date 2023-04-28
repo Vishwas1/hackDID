@@ -1,4 +1,4 @@
-baseURL = 'https://vishwas1.github.io/'
+baseURL = 'https://vishwas1.github.io/hackDID/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'mini'
