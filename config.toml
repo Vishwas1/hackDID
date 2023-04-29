@@ -1,38 +1,32 @@
 baseURL = 'https://vishwas1.github.io/hackDID/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Hypersign Hack DID'
 theme = 'github-style'
 defaultContentLanguage = 'en'
 lastmod = true
 
 [params]
-  author = "MeiK"
-  description = "In solitude, where we are least alone."
-  github = "MeiK2333"
-  facebook = "MeiK2333"
-  twitter = "MeiK2333"
-  linkedin = "MeiK2333"
-  instagram = "MeiK2333"
-  tumblr = "MeiK2333"
-  email = "meik2333@gmail.com"
-  url = "https://meik2333.com"
+  author = "Hypersign.id"
+  description = "Own your identity and data"
+  github = "hypersign-protocol"
+  facebook = "hypersign-protocol"
+  twitter = "hypersignchain"
+  linkedin = "hypersign-protocol"
+  instagram = "hypersign-protocol"
+  tumblr = "hypersign-protocol"
+  email = "connect@hypermine.in"
+  url = "https://hypersign.id"
   keywords = "blog, google analytics"
   rss = true
   lastmod = true
   userStatusEmoji = "😀"
   favicon = "/images/github.png"
-  location = "China"
+  location = "India"
   enableGitalk = true
 
 [[params.links]]
     title = "Link"
-    href = "https://github.com/meik2333"
-
-[[params.links]]
-    title = "Link2"
-    href = "https://meik2333.com"
-    icon = "https://meik2333.com/images/avatar.png"
-
+    href = "https://github.com/hypersign-protocol"
 
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
